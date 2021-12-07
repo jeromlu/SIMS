@@ -1,0 +1,10 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+<file alias="icon.png">images/main1.png</file>
+<file alias="fileOpen.png">images/fileopen.png</file>
+<file alias="fileExport.png">images/export.png</file>
+<file alias="fileQuit.png">images/filequit.png</file>
+<file alias="toolsFit.png">images/fitIcon.png</file>
+<file alias="toolsIntegrate.png">images/integrate.png</file>
+</qresource>
+</RCC>
